@@ -1,3 +1,5 @@
+
+https://github.com/Yosra697/Weather-Wonder/assets/83519787/a31eb649-6e3e-496c-beb5-51137f191a70
 # 🌦️ Weather-Wonder
 
 ## Introduction
@@ -45,3 +47,18 @@ To run the project locally:
 1. Clone the repository to your local machine.
 2. Open the `index.html` file in your preferred web browser.
 3. Enter a location in the search box and click the search button to get weather information.
+
+4. ## Video Demonstration
+
+Watch the [Weather-Wonder Demo].
+
+https://github.com/Yosra697/Weather-Wonder/assets/83519787/7ebfe07e-9403-49db-b093-7a87e98980bd
+
+Watch the [Responsive Weather-Wonder Demo].
+
+https://github.com/Yosra697/Weather-Wonder/assets/83519787/250a035d-d6b1-4654-ac27-0622fc42cb51
+
+
+
+
+
