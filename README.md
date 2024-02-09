@@ -1,4 +1,4 @@
-# Weather-Wonder
+# 🌦️ Weather-Wonder
 
 ## Introduction
 
@@ -6,17 +6,17 @@ Welcome to our Weather App! This simple yet powerful application allows users to
 
 ## Tech Stack
 
-- HTML
-- CSS
-- JavaScript
-- OpenWeatherMap API
+- 🖥️ HTML
+- 🎨 CSS
+- 💻 JavaScript
+- 🌐 OpenWeatherMap API
 
 ## Features
 
-- Location-based weather search
-- Real-time updates on temperature, weather conditions, humidity, and wind speed
-- Visual representation of weather conditions through icons
-- Responsive design for seamless usage across devices
+- 📍 Location-based weather search
+- 🌡️ Real-time updates on temperature, weather conditions, humidity, and wind speed
+- 🖼️ Visual representation of weather conditions through icons
+- 📱 Responsive design for seamless usage across devices
 
 ## Process
 
@@ -28,15 +28,15 @@ Welcome to our Weather App! This simple yet powerful application allows users to
 
 ## Learning
 
-- Gain experience with API integration for fetching live data.
-- Enhance understanding of asynchronous JavaScript for handling API responses.
-- Learn CSS styling techniques for creating visually appealing interfaces.
+- 📚 Gain experience with API integration for fetching live data.
+- 🔄 Enhance understanding of asynchronous JavaScript for handling API responses.
+- 🎨 Learn CSS styling techniques for creating visually appealing interfaces.
 
 ## Improvement
 
-- Enhance error handling to provide better feedback for invalid user inputs.
-- Implement additional features such as weather forecasts for multiple days.
-- Improve UI/UX design for a more intuitive and engaging user experience.
+- 🛠️ Enhance error handling to provide better feedback for invalid user inputs.
+- 📅 Implement additional features such as weather forecasts for multiple days.
+- 🖌️ Improve UI/UX design for a more intuitive and engaging user experience.
 
 ## Running the Project
 
