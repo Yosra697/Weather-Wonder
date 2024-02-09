@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Welcome to our Weather App! This simple yet powerful application allows users to retrieve real-time weather updates for any location. Just input your desired location, and let the magic of our app fetch the latest weather data for you.
+Welcome to the Weather App! This simple yet powerful application allows users to retrieve real-time weather updates for any location. Just input your desired location, and let the magic of this app fetch the latest weather data for you.
 
 ## Tech Stack
 
