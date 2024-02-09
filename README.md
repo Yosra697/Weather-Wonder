@@ -48,13 +48,8 @@ To run the project locally:
 
 4. ## Video Demonstration
 
-Watch the [Weather-Wonder Demo].
-
-https://github.com/Yosra697/Weather-Wonder/assets/83519787/7ebfe07e-9403-49db-b093-7a87e98980bd
-
-Watch the [Responsive Weather-Wonder Demo].
-
-https://github.com/Yosra697/Weather-Wonder/assets/83519787/250a035d-d6b1-4654-ac27-0622fc42cb51
+Watch the [Weather-Wonder Demo](https://github.com/Yosra697/Weather-Wonder/assets/83519787/7ebfe07e-9403-49db-b093-7a87e98980bd)
+Watch the [Responsive Weather-Wonder Demo](https://github.com/Yosra697/Weather-Wonder/assets/83519787/250a035d-d6b1-4654-ac27-0622fc42cb51)
 
 
 
