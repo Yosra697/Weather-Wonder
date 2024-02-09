@@ -1,5 +1,3 @@
-
-https://github.com/Yosra697/Weather-Wonder/assets/83519787/a31eb649-6e3e-496c-beb5-51137f191a70
 # 🌦️ Weather-Wonder
 
 ## Introduction
